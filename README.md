@@ -5,6 +5,14 @@ I’m Gian Paolo Santopaolo, an accomplished technology leader and hands-on code
 <a href="https://github.com/gsantopaolo">
   <img src="https://komarev.com/ghpvc/?username=gsantopaolo" alt="Profile Views" />
 </a>
+<!--
+## 👋🏻 Hello!
+
+I’m Gian Paolo Santopaolo, an accomplished technology leader and hands-on coder with over 18 years of experience in software development, enterprise architecture, and AI innovation. As CTO at IBV Solutions and a former Microsoft MVP and Regional Director, I bridge R\&D, product, and customer engagement to deliver ethical, scalable AI and cloud solutions.
+
+<a href="https://github.com/gsantopaolo">
+  <img src="https://komarev.com/ghpvc/?username=gsantopaolo" alt="Profile Views" />
+</a>
 
 ## 🚀 Most Recent Projects
 
@@ -85,3 +93,4 @@ flowchart LR
     A --> O[Build Something Big 📈]
     B --> C[Cry 😢]
 ```
+-->
