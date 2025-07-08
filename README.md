@@ -1,6 +1,6 @@
 ## 👋🏻 Hello!
 
-I’m Gian Paolo Santopaolo, an accomplished technology leader and hands-on coder with over 18 years of experience in software development, enterprise architecture, and AI innovation. As CTO at IBV Solutions and a former Microsoft MVP and Regional Director, I bridge R\&D, product, and customer engagement to deliver ethical, scalable AI and cloud solutions.
+This is Gian (GP for anyone outside Italy). I'm an accomplished technology leader with 20 years of experience in software engineering and enterprise architecture, with a laser-focused focus on AI innovation since 2017. I blend hands-on coding with strategic design to deliver agentic, generative AI solutions, ranging from fine-tuning large language models to architecting multimodal Retrieval-Augmented Generation systems and orchestrating multi-GPU/multi-node distributed AI clusters. Currently enrolled in Stanford’s Professional AI Program (XCS224N: NLP with Deep Learning; XCS236: Deep Generative Models; XCS231N: Deep Learning for Computer Vision), I drive scalable, compliant AI development and deployments across cloud and on-prem environments. As a former Microsoft MVP (2012–2022) and Regional Director (2018–2020), I partner with R&D, product owners, and customers to turn cutting-edge research and ideas into real-world impact.
 
 <a href="https://github.com/gsantopaolo">
   <img src="https://komarev.com/ghpvc/?username=gsantopaolo" alt="Profile Views" />
