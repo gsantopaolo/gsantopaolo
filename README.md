@@ -12,9 +12,6 @@ Since years, I’ve been building AI systems that go from prototype → hardened
 
 
 
-<a href="https://github.com/gsantopaolo">
-  <img src="https://komarev.com/ghpvc/?username=gsantopaolo" alt="Profile Views" />
-</a>
 
 
 ## 📫 Let’s Connect
@@ -22,6 +19,12 @@ Since years, I’ve been building AI systems that go from prototype → hardened
 * **Email:** [gianpaolo.santopaolo@gmail.com](mailto:gianpaolo.santopaolo@gmail.com)
 * **LinkedIn:** [https://www.linkedin.com/in/gianpaolosantopaolo/](https://www.linkedin.com/in/gianpaolosantopaolo/)
 * **Blog:** [https://genmind.ch/](https://genmind.ch/)
+
+
+
+<a href="https://github.com/gsantopaolo">
+  <img src="https://komarev.com/ghpvc/?username=gsantopaolo" alt="Profile Views" />
+</a>
 
 
 ```mermaid
