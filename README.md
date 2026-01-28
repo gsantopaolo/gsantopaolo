@@ -26,18 +26,4 @@ Since years, I’ve been building AI systems that go from prototype → hardened
   <img src="https://komarev.com/ghpvc/?username=gsantopaolo" alt="Profile Views" />
 </a>
 
-<!--
-```mermaid
-flowchart LR
-    subgraph A[Find My Profile]
-      P[Visit my GitHub] --> H[Collaborate 🤝]
-    end
-    subgraph B[Search Endlessly]
-      S[Google me] --> W[Waste Time ⌛]
-    end
-    D[Discover AI Opportunity 🐛] --> A
-    D --> B
-    A --> O[Build Something Big 📈]
-    B --> C[Cry 😢]
-```
--->
+
