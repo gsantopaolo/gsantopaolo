@@ -26,7 +26,7 @@ Since years, I’ve been building AI systems that go from prototype → hardened
   <img src="https://komarev.com/ghpvc/?username=gsantopaolo" alt="Profile Views" />
 </a>
 
-
+<!--
 ```mermaid
 flowchart LR
     subgraph A[Find My Profile]
