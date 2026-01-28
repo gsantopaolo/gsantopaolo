@@ -20,7 +20,7 @@ Since years, I’ve been building AI systems that go from prototype → hardened
 * **LinkedIn:** [https://www.linkedin.com/in/gianpaolosantopaolo/](https://www.linkedin.com/in/gianpaolosantopaolo/)
 * **Blog:** [https://genmind.ch/](https://genmind.ch/)
 
-<br /><br />
+<br /> <br />
 
 <a href="https://github.com/gsantopaolo">
   <img src="https://komarev.com/ghpvc/?username=gsantopaolo" alt="Profile Views" />
